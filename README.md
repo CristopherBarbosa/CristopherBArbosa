@@ -16,6 +16,6 @@ Hello, my name is Cristopher Barbosa, and i am a front-end developer, actually l
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/cristopher-barbosa-06b92a1b1/">
+<a href="https://www.linkedin.com/in/cristopher-barbosa-06b92a1b1/" target="_blank">
 <img align="left" alt="LinkedIn" width="44px" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg" />
 </a>
