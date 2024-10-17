@@ -1,6 +1,7 @@
-### Hello!!  :eyeglasses:
+### Bem Vindo!!  :eyeglasses:
 
-Hello, my name is Cristopher Barbosa, and i am a front-end developer, actually learning and creating projects, right now i am learning JavaScript and how to modify the DOM with him:
+Olá me chamo Cristopher, sou um desenvolvedor Front-End em aprendizado, venho colocando tudo que estou aprendendo em prática com os projetos,
+no momento possuo conhecimento nas seguintes técnologias
 <br>
 <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
@@ -10,6 +11,10 @@ Hello, my name is Cristopher Barbosa, and i am a front-end developer, actually l
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo"/>
    <br>
    <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt ="GitHub-logo"/>
+   <br>
+   <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <br>
+   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <br/>
 <br/>
 
