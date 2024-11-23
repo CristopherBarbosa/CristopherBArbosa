@@ -1,6 +1,6 @@
 ### Bem Vindo!!  :eyeglasses:
 
-Olá me chamo Cristopher, sou um Desenvolvedor Front-End, em aprendizado, venho colocando tudo que estou aprendendo em prática com os projetos,
+Olá me chamo Cristopher, sou um Desenvolvedor Front-End, em aprendizado, venho aplicando tudo que estou aprendendo com os projetos,
 no momento possuo conhecimento nas seguintes técnologias
 <br>
 <br>
