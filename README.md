@@ -12,9 +12,6 @@ no momento possuo conhecimento nas seguintes técnologias
    <br>
    <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt ="GitHub-logo"/>
    <br>
-   <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <br>
-   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <br/>
 <br/>
 
