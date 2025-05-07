@@ -31,9 +31,8 @@ Desenvolvedor Front-end apaixonado por tecnologia, carros e transformar ideias e
 
 ## 💼 Contato
 
-- 📧 cristopher.email@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)  
-- 💻 [Portfólio Web (opcional)](https://seu-portfolio.com)
+- 📧 cristopherbarbosa07@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristopher-barbosa/)  
 
 ---
 
