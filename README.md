@@ -12,7 +12,7 @@ no momento possuo conhecimento nas seguintes técnologias
    <br>
    <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt ="GitHub-logo"/>
    <br>
-      <img src ="![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)" alt ="GitHub-logo"/>
+      <img src ="[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)" alt ="GitHub-logo"/>
    <br>
 <br/>
 <br/>
