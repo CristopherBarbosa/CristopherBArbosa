@@ -42,8 +42,3 @@ Desenvolvedor Front-end apaixonado por tecnologia, carros e transformar ideias e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/cristopher-barbosa-06b92a1b1/" target="_blank">
-<img align="left" alt="LinkedIn" width="44px" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg" />
-</a>
