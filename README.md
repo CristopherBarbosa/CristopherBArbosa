@@ -27,7 +27,7 @@ Desenvolvedor Front-end/Back-end apaixonado por tecnologia, carros e transformar
 - Aprofundar conhecimentos em **PHP moderno** e consumo de APIs.
 - Aprender sobre **MySQL** e integração com banco de dados.
 - Criar projetos com **estética profissional** usando Bootstrap e Figma.
-- Conquistar minha vaga como **Desenvolvedor Front-end Júnior**.
+- Conquistar minha vaga como **Desenvolvedor Front-end/Back-end**.
 
 ## 💼 Contato
 
