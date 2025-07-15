@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Cristopher
 
-Desenvolvedor Front-end apaixonado por tecnologia, carros e transformar ideias em projetos reais. Atualmente estudando e desenvolvendo com foco em **PHP** e **Bootstrap**, além de manter uma base sólida com **HTML**, **CSS** e **JavaScript**.
+Desenvolvedor Front-end/Back-end apaixonado por tecnologia, carros e transformar ideias em projetos reais. Atualmente estudando e desenvolvendo com foco em **PHP**, **Bootstrap** e **Laravel**, além de manter uma base sólida com **HTML**, **CSS** e **JavaScript**.
 
 ## 🚀 Tecnologias que domino
 
