@@ -38,6 +38,5 @@ Desenvolvedor Front-end apaixonado por tecnologia, carros e transformar ideias e
 
 🛠️ Sempre evoluindo. Curioso por natureza. Fã de Skylines e códigos limpos!
 
-[![Cristopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats)
+[![Cristopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats)
