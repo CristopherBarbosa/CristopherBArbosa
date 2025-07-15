@@ -1,50 +1,43 @@
-<h1 align="center">👋 Olá! Eu sou o Cristopher</h1>
+# 👋 Olá! Eu sou o Cristopher
 
-###
+Desenvolvedor Front-end apaixonado por tecnologia, carros e transformar ideias em projetos reais. Atualmente estudando e desenvolvendo com foco em **PHP** e **Bootstrap**, além de manter uma base sólida com **HTML**, **CSS** e **JavaScript**.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+## 🚀 Tecnologias que domino
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 
-###
+## 📂 Meus principais projetos
 
-<p align="left">Desenvolvedor Front-end apaixonado por tecnologia, carros e transformar ideias em projetos reais. Atualmente estudando e desenvolvendo com foco em PHP e Bootstrap, além de manter uma base sólida com HTML, CSS e JavaScript.</p>
+- 🍔 [Hamburgueria App](https://cristopherbarbosa.github.io/Dev---Burger/) – Sistema de catálogo com filtros, descontos e soma de produtos.
+- 💰 [Conversor de Moedas](https://cristopherbarbosa.github.io/Conversor-Moedas/) – Página web que converte real para dólar e euro.
+- 🎮 [Página Mario Bros](https://cristopherbarbosa.github.io/Projeto-Mario-Bros/) – Página web dos irmãos Mario com formulário e botão do WhatsApp.
+- ☕ [Cafeteria Serenatto](https://cristopherbarbosa.github.io/Bootstrap-5/) – Página responsiva com Bootstrap 5, formulários e modo escuro.
 
-###
+## 🎯 Objetivos atuais
 
-<p align="left">📂 Meus principais projetos<br><br>🍔 Hamburgueria App – Sistema de catálogo com filtros, descontos e soma de produtos.<br>💰 Conversor de Moedas – Página web que converte real para dólar e euro.<br>🎮 Página Mario Bros – Página web dos irmãos Mario com formulário e botão do WhatsApp.<br>☕ Cafeteria Serenatto – Página responsiva com Bootstrap 5, formulários e modo escuro.</p>
+- Aprofundar conhecimentos em **PHP moderno** e consumo de APIs.
+- Aprender sobre **MySQL** e integração com banco de dados.
+- Criar projetos com **estética profissional** usando Bootstrap e Figma.
+- Conquistar minha vaga como **Desenvolvedor Front-end Júnior**.
 
-###
+## 💼 Contato
 
-<p align="left">🎯 Objetivos atuais<br><br>Aprofundar conhecimentos em PHP moderno e consumo de APIs.<br>Aprender sobre MySQL e integração com banco de dados.<br>Criar projetos com estética profissional usando Bootstrap e Figma.<br>Conquistar minha vaga como Desenvolvedor Front-end/ Back-end.</p>
+- 📧 cristopherbarbosa07@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristopher-barbosa/)  
 
-###
+---
 
-<p align="left">💼 Contato<br>📧 cristopherbarbosa07@gmail.com<br>💼 LinkedIn</p>
+🛠️ Sempre evoluindo. Curioso por natureza. Fã de Skylines e códigos limpos!
 
-###
+[![Cristopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">🛠️ Sempre evoluindo. Curioso por natureza. Fã de Skylines e códigos limpos!</p>
-
-###
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherBarbosa)](https://github.com/anuraghazra/github-readme-stats)
